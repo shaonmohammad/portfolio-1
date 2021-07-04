@@ -18,14 +18,15 @@ p{
 .title{
     width: 50%;
     margin-left: 7%;
+    margin-right: 10%;
 }
 section{
     display: flex;
     margin-bottom: 150px;
 }
 .img img{
-    width: 65%;
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 10%;
     margin-top: 5%;
 }
 .lb a{
@@ -35,8 +36,10 @@ section{
     border-radius: 8px;
     color: peachpuff;
 }
+
 .dream-bg{
     float: right;
+    
 }
 #card-1{
     box-sizing: border-box;
